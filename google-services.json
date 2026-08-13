@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479297299783",
+    "project_id": "mobile-app-c61c4",
+    "storage_bucket": "mobile-app-c61c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479297299783:android:a5a887bc83b143048b5862",
+        "android_client_info": {
+          "package_name": "com.isiraketakumbura.mobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqWZNgrYqC1c4sOC-ulhFQz9w1Edozmq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
